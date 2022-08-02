@@ -5223,3 +5223,1682 @@ Make sure 'TowerBlueprint_C' has been compiled for  Check Light Barrier
 [2022.08.02-08.53.43:963][705]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/SwipeBlueprint.SwipeBlueprint
 [2022.08.02-08.53.43:963][705]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/VineBlueprint.VineBlueprint
 [2022.08.02-08.53.43:963][705]LogContentValidation: Display: Validating World /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel
+[2022.08.02-08.55.45:782][887]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.45:782][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.55.47:281][ 51]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-08.55.47:281][ 51]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.47:281][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.55.48:586][186]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-08.55.48:586][186]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.48:586][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.55.49:870][318]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-08.55.49:870][318]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.49:870][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.55.52:107][563]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-08.55.52:107][563]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.52:107][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.55.52:710][614]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-08.55.52:710][614]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-08.55.52:710][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-08.59.05:802][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GithubManagement/Bailey/EnemyBlueprint.EnemyBlueprint
+[2022.08.02-08.59.18:817][611]LogBlueprint: Warning: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Bailey\EnemyBlueprint.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Slip  and was replaced as a Custom Event!
+[2022.08.02-08.59.21:376][850]LogEditorTransaction: Undo Move Nodes
+[2022.08.02-08.59.22:236][903]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.02-08.59.22:932][971]LogBlueprint: Warning: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Bailey\EnemyBlueprint.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Slip  and was replaced as a Custom Event!
+[2022.08.02-09.00.14:965][672]BlueprintLog: New page: Compile EnemyBlueprint
+[2022.08.02-09.00.15:197][672]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2022.08.02-09.00.15:686][700]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/EnemyBlueprint8482304C49B96CBFBFCAFE9B19433353.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/EnemyBlueprint.uasset'
+[2022.08.02-09.00.15:704][700]AssetCheck: New page: Asset Save: EnemyBlueprint
+[2022.08.02-09.00.15:704][700]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/EnemyBlueprint.EnemyBlueprint
+[2022.08.02-09.00.37:294][ 41]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerTypesEnumerationE8D10E7642F5482F51BCE4BD5C2E3B4B.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerTypesEnumeration.uasset'
+[2022.08.02-09.00.37:309][ 41]AssetCheck: New page: Asset Save: TowerTypesEnumeration
+[2022.08.02-09.00.37:309][ 41]LogContentValidation: Display: Validating UserDefinedEnum /Game/GithubManagement/Bailey/TowerTypesEnumeration.TowerTypesEnumeration
+[2022.08.02-09.00.38:077][130]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerTypesEnumerationDFA7DD7742E3F4B094FBAA8A42CAABE9.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerTypesEnumeration.uasset'
+[2022.08.02-09.00.38:091][130]AssetCheck: New page: Asset Save: TowerTypesEnumeration
+[2022.08.02-09.00.38:091][130]LogContentValidation: Display: Validating UserDefinedEnum /Game/GithubManagement/Bailey/TowerTypesEnumeration.TowerTypesEnumeration
+[2022.08.02-09.01.08:879][940]LogBlueprint: Warning: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Bailey\TowerBlueprint.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Nature Tower Detect  and was replaced as a Custom Event!
+[2022.08.02-09.01.09:960][985]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.02-09.01.10:866][ 32]LogBlueprint: Warning: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Bailey\TowerBlueprint.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Nature Tower Detect  and was replaced as a Custom Event!
+[2022.08.02-09.01.20:288][722]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.02-09.01.28:519][601]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.01.28:747][601]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.08.02-09.01.41:713][902]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.01.41:829][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.08.02-09.01.42:461][925]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprintAD7399624E73CB8EC10F0DAE4225AE4E.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.01.42:482][925]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.01.42:482][925]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.02.50:540][791]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.02.50:657][791]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.08.02-09.02.51:174][801]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprint91F512AA4F7764B4773BF0A49300DAE1.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.02.51:192][801]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.02.51:192][801]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.03.34:875][210]BlueprintLog: New page: Compile InGameWidget
+[2022.08.02-09.03.34:948][210]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2022.08.02-09.03.35:527][249]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/InGameWidget85F7D91D451B2493C3DD919D49391835.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/InGameWidget.uasset'
+[2022.08.02-09.03.35:550][249]AssetCheck: New page: Asset Save: InGameWidget
+[2022.08.02-09.03.35:550][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/GithubManagement/Casey/InGameWidget.InGameWidget
+[2022.08.02-09.04.20:030][892]BlueprintLog: New page: Compile GameManagerBlueprint
+[2022.08.02-09.04.20:219][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2022.08.02-09.04.23:099][154]BlueprintLog: New page: Compile GameManagerBlueprint
+[2022.08.02-09.04.23:199][154]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2022.08.02-09.04.23:775][186]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/GameManagerBlueprint54C263804A86FA8A12D44D9B2102A684.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/GameManagerBlueprint.uasset'
+[2022.08.02-09.04.23:794][186]AssetCheck: New page: Asset Save: GameManagerBlueprint
+[2022.08.02-09.04.23:794][186]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/GameManagerBlueprint.GameManagerBlueprint
+[2022.08.02-09.04.40:973][530]LogSlate: Window 'Color Picker' being destroyed
+[2022.08.02-09.05.24:752][247]LogEditorTransaction: Undo Paste clipboard contents
+[2022.08.02-09.06.00:417][179]BlueprintLog: New page: Compile InGameWidget
+[2022.08.02-09.06.00:429][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] This blueprint (self) is not a GameManagerBlueprint_C, therefore ' Target ' must have a connection.
+[2022.08.02-09.06.00:430][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] This blueprint (self) is not a GameManagerBlueprint_C, therefore ' Target ' must have a connection.
+[2022.08.02-09.06.00:430][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] This blueprint (self) is not a GameManagerBlueprint_C, therefore ' Target ' must have a connection.
+[2022.08.02-09.06.00:430][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] This blueprint (self) is not a GameManagerBlueprint_C, therefore ' Target ' must have a connection.
+[2022.08.02-09.06.00:431][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] Variable node  Get Souls  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.02-09.06.00:431][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] Variable node  Get EvocationTowerCost  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.02-09.06.00:431][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] Variable node  Get Souls  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.02-09.06.00:431][179]LogBlueprint: Error: [AssetLog] D:\AIE VET Course 2021\GrimblySchmeggle\GrimblySchmeggle\GrimblySchmeggle\Content\GithubManagement\Casey\InGameWidget.uasset: [Compiler] Variable node  Get WindTowerCost  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.08.02-09.06.00:487][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.08.02-09.06.01:007][210]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/InGameWidget4297F5F34CD2514584E82EB05835924C.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/InGameWidget.uasset'
+[2022.08.02-09.06.01:031][210]AssetCheck: New page: Asset Save: InGameWidget
+[2022.08.02-09.06.01:031][210]LogContentValidation: Display: Validating WidgetBlueprint /Game/GithubManagement/Casey/InGameWidget.InGameWidget
+[2022.08.02-09.06.21:119][397]BlueprintLog: New page: Compile InGameWidget
+[2022.08.02-09.06.21:218][397]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2022.08.02-09.06.23:278][612]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.06.23:284][612]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.06.23:332][612]LogPlayLevel: [PlayLevel] Compiling GameManagerBlueprint before play...
+[2022.08.02-09.06.23:436][612]LogPlayLevel: [PlayLevel] Compiling BulletBlueprint before play...
+[2022.08.02-09.06.23:489][612]LogPlayLevel: [PlayLevel] Compiling SwipeBlueprint before play...
+[2022.08.02-09.06.23:536][612]LogPlayLevel: [PlayLevel] Compiling VineBlueprint before play...
+[2022.08.02-09.06.23:580][612]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.08.02-09.06.23:637][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.08.02-09.06.23:638][612]LogPlayLevel: PlayLevel: Blueprint regeneration took 353 ms (5 blueprints)
+[2022.08.02-09.06.23:638][612]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.06.23:733][612]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.06.23:734][612]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:06:23 am)
+[2022.08.02-09.06.23:734][612]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.06.23:735][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2022.08.02-09.06.23:736][612]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.06.23:736][612]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2022.08.02-09.06.23:736][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002287s)
+[2022.08.02-09.06.23:777][612]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.08.02-09.06.23:778][612]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.06.23:778][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.06.23:778][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.06.23:778][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.06.23:778][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.06.23:778][612]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.06.23:787][612]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.06.23:787][612]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.06.23:805][612]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.06.23:805][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.06.23:805][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.06.23:805][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.06.23:805][612]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.06.23:806][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.06.23:806][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.06.23:806][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.06.23:806][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.06.23:806][612]LogInit: FAudioDevice initialized.
+[2022.08.02-09.06.23:807][612]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainMenuLevel'.
+[2022.08.02-09.06.23:855][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.06.23:855][612]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.06.23:856][612]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.36.23
+[2022.08.02-09.06.23:856][612]LogWorld: Bringing up level for play took: 0.000429
+[2022.08.02-09.06.23:856][612]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.08.02-09.06.23:858][612]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.06.23:860][612]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.06.23:860][612]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.06.23:860][612]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.06.23:861][612]PIE: Server logged in
+[2022.08.02-09.06.23:861][612]PIE: Play in editor total start time 0.578 seconds.
+[2022.08.02-09.06.25:566][748]LogRenderer: Reallocating scene render targets to support 1920x976 Format 10 NumSamples 1 (Frame:137).
+[2022.08.02-09.06.26:071][801]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.06.26:083][801]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.06.26:109][801]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.06.26:109][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.06.26:115][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.06.26:122][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.06.26:164][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.06.26:165][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.06.26:172][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.08.02-09.06.26:210][802]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.08.02-09.07.52:256][375]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.07.52:399][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.08.02-09.07.53:101][402]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprintB42D785842FA4F8B2E5ABBA1AF61B44C.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.07.53:123][402]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.07.53:123][402]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.07.55:026][578]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.07.55:032][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.07.55:033][578]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.07.55:127][578]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.07.55:127][578]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:07:55 am)
+[2022.08.02-09.07.55:127][578]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.07.55:128][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2022.08.02-09.07.55:129][578]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.07.55:129][578]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2022.08.02-09.07.55:129][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002212s)
+[2022.08.02-09.07.55:176][578]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.08.02-09.07.55:177][578]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.07.55:177][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.07.55:177][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.07.55:177][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.07.55:177][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.07.55:177][578]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.07.55:185][578]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.07.55:185][578]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.07.55:204][578]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.07.55:204][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.07.55:204][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.07.55:204][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.07.55:205][578]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.07.55:205][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.07.55:205][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.07.55:206][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.07.55:206][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.07.55:206][578]LogInit: FAudioDevice initialized.
+[2022.08.02-09.07.55:206][578]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainMenuLevel'.
+[2022.08.02-09.07.55:265][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.07.55:265][578]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.07.55:266][578]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.37.55
+[2022.08.02-09.07.55:266][578]LogWorld: Bringing up level for play took: 0.000420
+[2022.08.02-09.07.55:266][578]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.08.02-09.07.55:268][578]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.07.55:269][578]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.07.55:270][578]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.07.55:270][578]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.07.55:276][578]PIE: Server logged in
+[2022.08.02-09.07.55:282][578]PIE: Play in editor total start time 0.251 seconds.
+[2022.08.02-09.07.56:366][649]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.07.56:367][649]LogHMD: FSplash::DoShow
+[2022.08.02-09.07.56:367][649]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.07.56:368][649]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.07.56:368][649]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.07.56:368][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.07.56:438][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.07.56:442][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.08.02-09.07.56:455][649]LogAudio: Display: Audio Device (ID: 31) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.07.56:456][649]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.07.56:458][649]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.07.56:461][649]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.37.56
+[2022.08.02-09.07.56:461][649]LogWorld: Bringing up level for play took: 0.002322
+[2022.08.02-09.07.56:463][649]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.07.56:463][649]LogLoad: Took 0.096523 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.07.56:479][650]LogHMD: FSplash::DoHide
+[2022.08.02-09.07.58:543][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.58:750][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.58:956][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.59:171][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.59:376][865]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.59:580][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.59:785][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.07.59:995][911]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.00:199][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.00:405][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.00:614][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.00:825][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.01:031][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.01:240][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.01:441][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.01:689][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.01:893][ 51]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.02:098][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.02:304][ 81]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.02:515][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.02:723][112]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.02:933][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.03:145][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.03:347][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.03:548][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.03:759][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.08.03:862][197]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.08.03:874][197]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.08.03:874][197]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.08.03:875][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.03:882][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.08.03:890][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.03:930][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.08.03:930][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.03:931][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.03:939][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.08.02-09.08.04:094][198]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.08.02-09.08.04:795][231]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.08.04:803][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.08.04:803][231]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.08.04:898][231]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.08.04:898][231]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:08:04 am)
+[2022.08.02-09.08.04:898][231]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.08.04:899][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001064s)
+[2022.08.02-09.08.04:900][231]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.08.04:900][231]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2022.08.02-09.08.04:900][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002205s)
+[2022.08.02-09.08.04:945][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.08.02-09.08.04:945][231]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.08.04:945][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.08.04:945][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.08.04:946][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.08.04:946][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.08.04:946][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.08.04:946][231]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.08.04:954][231]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.08.04:954][231]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.08.04:973][231]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.08.04:973][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.08.04:973][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.08.04:973][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.08.04:974][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.08.04:974][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.08.04:974][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.08.04:975][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.08.04:975][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.08.04:975][231]LogInit: FAudioDevice initialized.
+[2022.08.02-09.08.04:975][231]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainMenuLevel'.
+[2022.08.02-09.08.05:027][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.08.05:027][231]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.08.05:027][231]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.38.05
+[2022.08.02-09.08.05:027][231]LogWorld: Bringing up level for play took: 0.000433
+[2022.08.02-09.08.05:028][231]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2022.08.02-09.08.05:029][231]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.08.05:031][231]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.08.05:031][231]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.08.05:031][231]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.08.05:038][231]PIE: Server logged in
+[2022.08.02-09.08.05:044][231]PIE: Play in editor total start time 0.242 seconds.
+[2022.08.02-09.08.05:817][276]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.08.05:826][276]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.08.10:133][468]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.08.10:134][468]LogHMD: FSplash::DoShow
+[2022.08.02-09.08.10:134][468]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.08.10:134][468]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.08.10:135][468]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.08.10:135][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.10:197][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.08.10:202][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.08.02-09.08.10:206][468]LogAudio: Display: Audio Device (ID: 32) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.08.10:207][468]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.08.10:209][468]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.08.10:212][468]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.38.10
+[2022.08.02-09.08.10:212][468]LogWorld: Bringing up level for play took: 0.002255
+[2022.08.02-09.08.10:215][468]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.08.10:215][468]LogLoad: Took 0.080803 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.08.10:230][469]LogHMD: FSplash::DoHide
+[2022.08.02-09.08.24:292][483]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.08.24:303][483]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.08.24:303][483]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.08.24:304][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.24:316][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.08.24:323][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.24:362][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.24:363][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.24:371][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.08.02-09.08.24:407][484]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.08.02-09.08.25:158][550]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.08.25:163][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.08.25:164][550]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.08.25:256][550]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.08.25:256][550]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:08:25 am)
+[2022.08.02-09.08.25:257][550]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.08.25:258][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2022.08.02-09.08.25:258][550]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.08.25:259][550]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.08.02-09.08.25:259][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002056s)
+[2022.08.02-09.08.25:301][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.08.02-09.08.25:302][550]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.08.25:302][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.08.25:302][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.08.25:302][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.08.25:303][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.08.25:303][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.08.25:303][550]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.08.25:311][550]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.08.25:311][550]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.08.25:328][550]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.08.25:329][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.08.25:329][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.08.25:329][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.08.25:329][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.08.25:329][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.08.25:329][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.08.25:330][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.08.25:330][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.08.25:330][550]LogInit: FAudioDevice initialized.
+[2022.08.02-09.08.25:330][550]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainMenuLevel'.
+[2022.08.02-09.08.25:380][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.08.25:380][550]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.08.25:381][550]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.38.25
+[2022.08.02-09.08.25:381][550]LogWorld: Bringing up level for play took: 0.000366
+[2022.08.02-09.08.25:381][550]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2022.08.02-09.08.25:383][550]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.08.25:384][550]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.08.25:384][550]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.08.25:384][550]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.08.25:391][550]PIE: Server logged in
+[2022.08.02-09.08.25:397][550]PIE: Play in editor total start time 0.235 seconds.
+[2022.08.02-09.08.26:268][603]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.08.26:269][603]LogHMD: FSplash::DoShow
+[2022.08.02-09.08.26:269][603]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.08.26:269][603]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.08.26:269][603]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.08.26:269][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.26:309][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.08.26:313][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.08.02-09.08.26:318][603]LogAudio: Display: Audio Device (ID: 33) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.08.26:319][603]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.08.26:321][603]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.08.26:324][603]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.38.26
+[2022.08.02-09.08.26:324][603]LogWorld: Bringing up level for play took: 0.002073
+[2022.08.02-09.08.26:326][603]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.08.26:326][603]LogLoad: Took 0.057120 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.08.26:342][604]LogHMD: FSplash::DoHide
+[2022.08.02-09.08.34:173][179]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.08.34:185][179]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.08.34:185][179]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.08.34:185][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.34:194][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.08.34:200][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.08.34:243][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.34:244][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.08.34:251][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.08.02-09.08.34:295][180]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2022.08.02-09.09.03:948][981]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.09.04:064][981]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.08.02-09.09.04:797][ 12]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprint51A3F1FF47CDE7FE71B5CCB0934323F2.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.09.04:819][ 12]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.09.04:819][ 12]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.09.05:329][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.09.05:335][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.09.05:335][ 67]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.09.05:427][ 67]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.09.05:427][ 67]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:09:05 am)
+[2022.08.02-09.09.05:428][ 67]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.05:430][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2022.08.02-09.09.05:431][ 67]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.09.05:431][ 67]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2022.08.02-09.09.05:431][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002589s)
+[2022.08.02-09.09.05:477][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.08.02-09.09.05:478][ 67]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.09.05:478][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.09.05:478][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.09.05:479][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.09.05:479][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.09.05:479][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.09.05:479][ 67]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.09.05:487][ 67]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.09.05:487][ 67]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.09.05:505][ 67]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.09.05:505][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.09.05:505][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.09.05:506][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.09.05:506][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.09.05:506][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.09.05:506][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.09.05:507][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.09.05:507][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.09.05:507][ 67]LogInit: FAudioDevice initialized.
+[2022.08.02-09.09.05:507][ 67]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenuLevel'.
+[2022.08.02-09.09.05:553][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.09.05:553][ 67]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.05:554][ 67]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.39.05
+[2022.08.02-09.09.05:554][ 67]LogWorld: Bringing up level for play took: 0.000375
+[2022.08.02-09.09.05:554][ 67]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2022.08.02-09.09.05:556][ 67]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.09.05:557][ 67]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.09.05:557][ 67]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.09.05:557][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.09.05:563][ 67]PIE: Server logged in
+[2022.08.02-09.09.05:569][ 67]PIE: Play in editor total start time 0.236 seconds.
+[2022.08.02-09.09.06:344][126]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.06:345][126]LogHMD: FSplash::DoShow
+[2022.08.02-09.09.06:345][126]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.06:345][126]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.06:346][126]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.09.06:346][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.06:417][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.09.06:422][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.08.02-09.09.06:426][126]LogAudio: Display: Audio Device (ID: 34) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.09.06:427][126]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.09.06:429][126]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.06:432][126]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.39.06
+[2022.08.02-09.09.06:432][126]LogWorld: Bringing up level for play took: 0.002140
+[2022.08.02-09.09.06:435][126]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.09.06:435][126]LogLoad: Took 0.089349 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.09.06:446][127]LogHMD: FSplash::DoHide
+[2022.08.02-09.09.16:799][ 68]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.09.16:809][ 68]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.09.16:849][ 68]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.09.16:849][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.16:854][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.09.16:860][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.16:901][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.09.16:901][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.09.16:902][ 68]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.09.16:910][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.08.02-09.09.16:956][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.08.02-09.09.32:589][537]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.09.32:705][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.08.02-09.09.33:555][579]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprint586B6FE94A05AE0E5F12BBBDC723B429.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.09.33:577][579]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.09.33:577][579]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.09.35:851][793]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.09.35:857][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.09.35:857][793]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.09.35:956][793]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.09.35:956][793]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:09:35 am)
+[2022.08.02-09.09.35:957][793]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.35:958][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001115s)
+[2022.08.02-09.09.35:959][793]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.09.35:959][793]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2022.08.02-09.09.35:959][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002508s)
+[2022.08.02-09.09.36:023][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.08.02-09.09.36:024][793]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.09.36:024][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.09.36:024][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.09.36:025][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.09.36:025][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.09.36:025][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.09.36:025][793]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.09.36:034][793]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.09.36:034][793]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.09.36:053][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.09.36:053][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.09.36:055][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.09.36:055][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.09.36:055][793]LogInit: FAudioDevice initialized.
+[2022.08.02-09.09.36:055][793]LogAudio: Display: Audio Device (ID: 35) registered with world 'MainMenuLevel'.
+[2022.08.02-09.09.36:100][793]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.09.36:100][793]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.36:101][793]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.39.36
+[2022.08.02-09.09.36:101][793]LogWorld: Bringing up level for play took: 0.000446
+[2022.08.02-09.09.36:101][793]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2022.08.02-09.09.36:103][793]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.09.36:105][793]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.09.36:105][793]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.09.36:105][793]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.09.36:112][793]PIE: Server logged in
+[2022.08.02-09.09.36:118][793]PIE: Play in editor total start time 0.262 seconds.
+[2022.08.02-09.09.36:975][856]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.36:977][856]LogHMD: FSplash::DoShow
+[2022.08.02-09.09.36:977][856]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.36:977][856]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.36:977][856]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.09.36:977][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.37:048][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.09.37:052][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.08.02-09.09.37:057][856]LogAudio: Display: Audio Device (ID: 35) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.09.37:058][856]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.09.37:060][856]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.37:062][856]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.39.37
+[2022.08.02-09.09.37:062][856]LogWorld: Bringing up level for play took: 0.001827
+[2022.08.02-09.09.37:065][856]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.09.37:065][856]LogLoad: Took 0.087703 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.09.37:076][857]LogHMD: FSplash::DoHide
+[2022.08.02-09.09.47:137][692]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.09.47:148][692]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.09.47:169][692]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.09.47:169][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.47:177][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.09.47:185][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.47:229][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.09.47:229][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.09.47:230][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.09.47:237][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.08.02-09.09.47:282][693]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2022.08.02-09.09.48:056][769]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.09.48:062][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.09.48:062][769]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.09.48:155][769]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.09.48:155][769]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:09:48 am)
+[2022.08.02-09.09.48:157][769]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.48:158][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001061s)
+[2022.08.02-09.09.48:159][769]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.09.48:159][769]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2022.08.02-09.09.48:159][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002377s)
+[2022.08.02-09.09.48:202][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.08.02-09.09.48:203][769]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.09.48:203][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.09.48:203][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.09.48:203][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.09.48:203][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.09.48:203][769]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.09.48:212][769]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.09.48:212][769]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.09.48:231][769]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.09.48:231][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.09.48:231][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.09.48:231][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.09.48:231][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.09.48:232][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.09.48:232][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.09.48:233][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.09.48:233][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.09.48:233][769]LogInit: FAudioDevice initialized.
+[2022.08.02-09.09.48:233][769]LogAudio: Display: Audio Device (ID: 36) registered with world 'MainMenuLevel'.
+[2022.08.02-09.09.48:278][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.09.48:278][769]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.48:279][769]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.39.48
+[2022.08.02-09.09.48:280][769]LogWorld: Bringing up level for play took: 0.000378
+[2022.08.02-09.09.48:280][769]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2022.08.02-09.09.48:281][769]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.09.48:283][769]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.09.48:283][769]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.09.48:283][769]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.09.48:290][769]PIE: Server logged in
+[2022.08.02-09.09.48:296][769]PIE: Play in editor total start time 0.234 seconds.
+[2022.08.02-09.09.49:138][829]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.49:139][829]LogHMD: FSplash::DoShow
+[2022.08.02-09.09.49:139][829]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.09.49:139][829]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.09.49:139][829]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.09.49:139][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.09.49:206][829]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.09.49:212][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.08.02-09.09.49:216][829]LogAudio: Display: Audio Device (ID: 36) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.09.49:217][829]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.09.49:219][829]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.09.49:221][829]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.39.49
+[2022.08.02-09.09.49:221][829]LogWorld: Bringing up level for play took: 0.001658
+[2022.08.02-09.09.49:223][829]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.09.49:223][829]LogLoad: Took 0.084618 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.09.49:237][830]LogHMD: FSplash::DoHide
+[2022.08.02-09.09.50:690][954]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.09.50:691][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.10.00:127][738]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.10.00:139][738]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.10.00:159][738]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.10.00:159][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.00:165][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.10.00:172][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.00:214][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.10.00:215][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.10.00:224][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.08.02-09.10.00:378][739]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2022.08.02-09.10.05:874][284]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.10.05:882][284]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.10.06:665][362]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.10.06:670][362]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.10.06:677][362]LogPlayLevel: [PlayLevel] Compiling TowerBlueprint before play...
+[2022.08.02-09.10.06:864][362]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.08.02-09.10.06:864][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2022.08.02-09.10.06:864][362]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.10.06:956][362]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.10.06:956][362]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:10:06 am)
+[2022.08.02-09.10.06:956][362]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.10.06:957][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000951s)
+[2022.08.02-09.10.06:958][362]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.10.06:958][362]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2022.08.02-09.10.06:958][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001954s)
+[2022.08.02-09.10.07:000][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.08.02-09.10.07:001][362]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.10.07:001][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.10.07:001][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.10.07:001][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.10.07:001][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.10.07:001][362]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.10.07:010][362]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.10.07:010][362]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.10.07:026][362]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.10.07:027][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.10.07:027][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.10.07:027][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.10.07:027][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.10.07:027][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.10.07:027][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.10.07:028][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.10.07:028][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.10.07:028][362]LogInit: FAudioDevice initialized.
+[2022.08.02-09.10.07:028][362]LogAudio: Display: Audio Device (ID: 37) registered with world 'MainMenuLevel'.
+[2022.08.02-09.10.07:081][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.10.07:081][362]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.10.07:082][362]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.40.07
+[2022.08.02-09.10.07:083][362]LogWorld: Bringing up level for play took: 0.000493
+[2022.08.02-09.10.07:083][362]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2022.08.02-09.10.07:084][362]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.10.07:086][362]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.10.07:086][362]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.10.07:086][362]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.10.07:087][362]PIE: Server logged in
+[2022.08.02-09.10.07:087][362]PIE: Play in editor total start time 0.418 seconds.
+[2022.08.02-09.10.07:824][398]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.10.07:826][398]LogHMD: FSplash::DoShow
+[2022.08.02-09.10.07:826][398]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.10.07:826][398]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.10.07:827][398]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.10.07:827][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.07:899][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.10.07:903][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.08.02-09.10.07:908][398]LogAudio: Display: Audio Device (ID: 37) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.10.07:909][398]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.10.07:911][398]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.10.07:914][398]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.40.07
+[2022.08.02-09.10.07:914][398]LogWorld: Bringing up level for play took: 0.002074
+[2022.08.02-09.10.07:916][398]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.10.07:916][398]LogLoad: Took 0.089272 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.10.07:928][399]LogHMD: FSplash::DoHide
+[2022.08.02-09.10.21:897][534]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.10.21:909][534]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.10.21:939][534]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.10.21:939][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.21:948][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.10.21:955][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.21:995][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.10.21:996][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.10.22:003][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.08.02-09.10.22:045][535]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2022.08.02-09.10.56:234][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.10.56:239][911]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.10.56:245][911]LogPlayLevel: [PlayLevel] Compiling TowerBlueprint before play...
+[2022.08.02-09.10.56:437][911]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.08.02-09.10.56:438][911]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2022.08.02-09.10.56:438][911]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.10.56:532][911]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.10.56:532][911]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:10:56 am)
+[2022.08.02-09.10.56:532][911]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.10.56:533][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000953s)
+[2022.08.02-09.10.56:534][911]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.10.56:534][911]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2022.08.02-09.10.56:534][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002163s)
+[2022.08.02-09.10.56:577][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.08.02-09.10.56:578][911]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.10.56:578][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.10.56:578][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.10.56:579][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.10.56:579][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.10.56:579][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.10.56:579][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.10.56:586][911]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.10.56:586][911]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.10.56:605][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.10.56:605][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.10.56:606][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.10.56:606][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.10.56:607][911]LogInit: FAudioDevice initialized.
+[2022.08.02-09.10.56:607][911]LogAudio: Display: Audio Device (ID: 38) registered with world 'MainMenuLevel'.
+[2022.08.02-09.10.56:665][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.10.56:665][911]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.10.56:666][911]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.40.56
+[2022.08.02-09.10.56:666][911]LogWorld: Bringing up level for play took: 0.000371
+[2022.08.02-09.10.56:666][911]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2022.08.02-09.10.56:667][911]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.10.56:668][911]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.10.56:668][911]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.10.56:668][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.10.56:669][911]PIE: Server logged in
+[2022.08.02-09.10.56:670][911]PIE: Play in editor total start time 0.432 seconds.
+[2022.08.02-09.10.57:403][948]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.10.57:404][948]LogHMD: FSplash::DoShow
+[2022.08.02-09.10.57:404][948]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.10.57:404][948]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.10.57:404][948]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.10.57:405][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.10.57:481][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.10.57:485][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.08.02-09.10.57:490][948]LogAudio: Display: Audio Device (ID: 38) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.10.57:491][948]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.10.57:494][948]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.10.57:498][948]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.40.57
+[2022.08.02-09.10.57:498][948]LogWorld: Bringing up level for play took: 0.002540
+[2022.08.02-09.10.57:500][948]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.10.57:500][948]LogLoad: Took 0.095719 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.10.57:513][949]LogHMD: FSplash::DoHide
+[2022.08.02-09.11.04:642][601]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.11.04:651][601]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.11.04:689][601]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.11.04:689][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.04:699][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.11.04:706][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.04:746][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.04:747][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.04:755][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.08.02-09.11.04:796][602]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2022.08.02-09.11.13:468][277]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.11.13:585][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.08.02-09.11.14:496][331]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.11.14:502][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.11.14:502][331]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.11.14:595][331]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.11.14:595][331]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:11:14 am)
+[2022.08.02-09.11.14:595][331]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.11.14:596][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2022.08.02-09.11.14:597][331]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.11.14:597][331]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2022.08.02-09.11.14:597][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002183s)
+[2022.08.02-09.11.14:643][331]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2022.08.02-09.11.14:643][331]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.11.14:644][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.11.14:644][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.11.14:644][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.11.14:644][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.11.14:644][331]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.11.14:653][331]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.11.14:653][331]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.11.14:671][331]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.11.14:671][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.11.14:671][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.11.14:671][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.11.14:672][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.11.14:672][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.11.14:672][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.11.14:673][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.11.14:673][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.11.14:673][331]LogInit: FAudioDevice initialized.
+[2022.08.02-09.11.14:673][331]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainMenuLevel'.
+[2022.08.02-09.11.14:734][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.11.14:734][331]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.11.14:735][331]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.41.14
+[2022.08.02-09.11.14:735][331]LogWorld: Bringing up level for play took: 0.000553
+[2022.08.02-09.11.14:735][331]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2022.08.02-09.11.14:737][331]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.11.14:738][331]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.11.14:738][331]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.11.14:738][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.11.14:745][331]PIE: Server logged in
+[2022.08.02-09.11.14:752][331]PIE: Play in editor total start time 0.251 seconds.
+[2022.08.02-09.11.15:365][369]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.11.15:365][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.11.15:813][407]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.11.15:813][407]LogHMD: FSplash::DoShow
+[2022.08.02-09.11.15:813][407]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.11.15:813][407]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.11.15:814][407]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.11.15:814][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.15:888][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.11.15:892][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.08.02-09.11.15:898][407]LogAudio: Display: Audio Device (ID: 39) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.11.15:898][407]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.11.15:900][407]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.11.15:903][407]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.41.15
+[2022.08.02-09.11.15:903][407]LogWorld: Bringing up level for play took: 0.001955
+[2022.08.02-09.11.15:904][407]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.11.15:904][407]LogLoad: Took 0.091340 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.11.15:919][408]LogHMD: FSplash::DoHide
+[2022.08.02-09.11.26:015][221]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.11.26:026][221]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.11.26:027][221]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.11.26:027][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.26:036][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.11.26:044][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.26:089][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.11.26:089][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.26:090][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.26:099][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.08.02-09.11.26:244][222]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.08.02-09.11.28:014][360]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.11.28:022][360]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.11.29:303][481]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.11.29:308][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.11.29:308][481]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.11.29:401][481]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.11.29:401][481]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:11:29 am)
+[2022.08.02-09.11.29:401][481]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.11.29:402][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001074s)
+[2022.08.02-09.11.29:403][481]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.11.29:403][481]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2022.08.02-09.11.29:403][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002129s)
+[2022.08.02-09.11.29:445][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.08.02-09.11.29:446][481]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.11.29:446][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.11.29:446][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.11.29:447][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.11.29:447][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.11.29:447][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.11.29:447][481]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.11.29:454][481]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.11.29:454][481]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.11.29:472][481]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.11.29:473][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.11.29:473][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.11.29:473][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.11.29:473][481]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.11.29:473][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.11.29:473][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.11.29:474][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.11.29:474][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.11.29:474][481]LogInit: FAudioDevice initialized.
+[2022.08.02-09.11.29:474][481]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainMenuLevel'.
+[2022.08.02-09.11.29:531][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.11.29:532][481]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.11.29:532][481]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.41.29
+[2022.08.02-09.11.29:532][481]LogWorld: Bringing up level for play took: 0.000432
+[2022.08.02-09.11.29:532][481]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2022.08.02-09.11.29:534][481]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.11.29:535][481]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.11.29:535][481]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.11.29:535][481]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.11.29:541][481]PIE: Server logged in
+[2022.08.02-09.11.29:548][481]PIE: Play in editor total start time 0.24 seconds.
+[2022.08.02-09.11.30:076][511]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.11.30:076][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.11.30:527][548]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.11.30:530][548]LogHMD: FSplash::DoShow
+[2022.08.02-09.11.30:530][548]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.11.30:530][548]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.11.30:530][548]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.11.30:530][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.30:598][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.11.30:603][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.08.02-09.11.30:608][548]LogAudio: Display: Audio Device (ID: 40) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.11.30:608][548]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.11.30:610][548]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.11.30:613][548]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.41.30
+[2022.08.02-09.11.30:613][548]LogWorld: Bringing up level for play took: 0.002082
+[2022.08.02-09.11.30:614][548]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.11.30:614][548]LogLoad: Took 0.085378 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.11.30:627][549]LogHMD: FSplash::DoHide
+[2022.08.02-09.11.50:763][165]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.11.50:776][165]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.11.50:776][165]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.11.50:776][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.50:785][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.11.50:793][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.11.50:837][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.50:838][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.11.50:847][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.08.02-09.11.50:989][166]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2022.08.02-09.11.52:420][276]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.11.52:427][276]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.12.01:906][178]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.12.02:019][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.08.02-09.12.02:724][207]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprintF809D3874D93A8B3E902A7ABC49F0010.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.12.02:744][207]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.12.02:744][207]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.12.08:970][878]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.12.08:975][878]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.12.09:055][878]LogPlayLevel: [PlayLevel] Compiling EnemyBlueprint before play...
+[2022.08.02-09.12.09:200][878]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2022.08.02-09.12.09:201][878]LogPlayLevel: PlayLevel: Blueprint regeneration took 226 ms (1 blueprints)
+[2022.08.02-09.12.09:201][878]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.12.09:296][878]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.12.09:296][878]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:12:09 am)
+[2022.08.02-09.12.09:296][878]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.12.09:297][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000979s)
+[2022.08.02-09.12.09:298][878]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.12.09:298][878]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2022.08.02-09.12.09:298][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002167s)
+[2022.08.02-09.12.09:341][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.08.02-09.12.09:341][878]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.12.09:342][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.12.09:342][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.12.09:342][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.12.09:342][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.12.09:342][878]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.12.09:350][878]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.12.09:350][878]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.12.09:368][878]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.12.09:368][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.12.09:368][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.12.09:368][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.12.09:368][878]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.12.09:369][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.12.09:369][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.12.09:370][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.12.09:370][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.12.09:370][878]LogInit: FAudioDevice initialized.
+[2022.08.02-09.12.09:370][878]LogAudio: Display: Audio Device (ID: 41) registered with world 'MainMenuLevel'.
+[2022.08.02-09.12.09:421][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.12.09:421][878]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.12.09:422][878]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.42.09
+[2022.08.02-09.12.09:423][878]LogWorld: Bringing up level for play took: 0.000506
+[2022.08.02-09.12.09:423][878]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2022.08.02-09.12.09:424][878]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.12.09:426][878]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.12.09:426][878]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.12.09:426][878]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.12.09:427][878]PIE: Server logged in
+[2022.08.02-09.12.09:428][878]PIE: Play in editor total start time 0.453 seconds.
+[2022.08.02-09.12.10:075][922]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.12.10:075][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.12.10:524][972]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.12.10:525][972]LogHMD: FSplash::DoShow
+[2022.08.02-09.12.10:525][972]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.12.10:525][972]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.12.10:526][972]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.12.10:526][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.12.10:588][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.12.10:593][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.08.02-09.12.10:598][972]LogAudio: Display: Audio Device (ID: 41) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.12.10:599][972]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.12.10:601][972]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.12.10:604][972]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.42.10
+[2022.08.02-09.12.10:604][972]LogWorld: Bringing up level for play took: 0.002258
+[2022.08.02-09.12.10:605][972]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.12.10:605][972]LogLoad: Took 0.079591 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.12.10:617][973]LogHMD: FSplash::DoHide
+[2022.08.02-09.12.45:944][474]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.12.45:953][474]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.12.45:979][474]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.12.45:979][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.12.45:985][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.12.45:992][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.12.46:033][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.12.46:034][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.12.46:042][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.08.02-09.12.46:162][475]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.08.02-09.12.47:449][595]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.12.47:458][595]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.12.52:517][108]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.12.52:522][108]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.12.52:553][108]LogPlayLevel: [PlayLevel] Compiling TowerBlueprint before play...
+[2022.08.02-09.12.52:747][108]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.08.02-09.12.52:747][108]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2022.08.02-09.12.52:747][108]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.12.52:839][108]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.12.52:839][108]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:12:52 am)
+[2022.08.02-09.12.52:840][108]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.12.52:841][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2022.08.02-09.12.52:841][108]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.12.52:841][108]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2022.08.02-09.12.52:841][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001950s)
+[2022.08.02-09.12.52:883][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.08.02-09.12.52:883][108]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.12.52:883][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.12.52:883][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.12.52:884][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.12.52:884][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.12.52:884][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.12.52:884][108]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.12.52:892][108]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.12.52:892][108]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.12.52:911][108]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.12.52:912][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.12.52:912][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.12.52:912][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.12.52:912][108]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.12.52:912][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.12.52:912][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.12.52:913][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.12.52:913][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.12.52:913][108]LogInit: FAudioDevice initialized.
+[2022.08.02-09.12.52:913][108]LogAudio: Display: Audio Device (ID: 42) registered with world 'MainMenuLevel'.
+[2022.08.02-09.12.52:965][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.12.52:965][108]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.12.52:966][108]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.42.52
+[2022.08.02-09.12.52:966][108]LogWorld: Bringing up level for play took: 0.000399
+[2022.08.02-09.12.52:966][108]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2022.08.02-09.12.52:968][108]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.12.52:970][108]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.12.52:970][108]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.12.52:970][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.12.52:970][108]PIE: Server logged in
+[2022.08.02-09.12.52:971][108]PIE: Play in editor total start time 0.45 seconds.
+[2022.08.02-09.12.53:774][152]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.12.53:776][152]LogHMD: FSplash::DoShow
+[2022.08.02-09.12.53:776][152]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.12.53:776][152]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.12.53:776][152]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.12.53:776][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.12.53:849][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.12.53:853][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.08.02-09.12.53:858][152]LogAudio: Display: Audio Device (ID: 42) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.12.53:859][152]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.12.53:861][152]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.12.53:865][152]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.42.53
+[2022.08.02-09.12.53:865][152]LogWorld: Bringing up level for play took: 0.002628
+[2022.08.02-09.12.53:867][152]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.12.53:867][152]LogLoad: Took 0.090690 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.12.53:879][153]LogHMD: FSplash::DoHide
+[2022.08.02-09.13.39:455][870]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.13.39:505][870]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.13.39:505][870]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.13.39:506][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.13.39:517][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.13.39:524][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.13.39:581][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.13.39:583][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.13.39:594][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.08.02-09.13.39:799][871]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.08.02-09.13.46:172][473]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.13.46:176][473]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.13.46:183][473]LogPlayLevel: [PlayLevel] Compiling TowerBlueprint before play...
+[2022.08.02-09.13.46:379][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.08.02-09.13.46:379][473]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (1 blueprints)
+[2022.08.02-09.13.46:379][473]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.13.46:473][473]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.13.46:473][473]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:13:46 am)
+[2022.08.02-09.13.46:473][473]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.13.46:474][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001208s)
+[2022.08.02-09.13.46:475][473]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.13.46:475][473]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2022.08.02-09.13.46:475][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002355s)
+[2022.08.02-09.13.46:519][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.08.02-09.13.46:520][473]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.13.46:520][473]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.13.46:520][473]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.13.46:520][473]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.13.46:520][473]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.13.46:520][473]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.13.46:529][473]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.13.46:529][473]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.13.46:546][473]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.13.46:547][473]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.13.46:547][473]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.13.46:547][473]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.13.46:547][473]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.13.46:547][473]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.13.46:547][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.13.46:548][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.13.46:549][473]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.13.46:549][473]LogInit: FAudioDevice initialized.
+[2022.08.02-09.13.46:549][473]LogAudio: Display: Audio Device (ID: 43) registered with world 'MainMenuLevel'.
+[2022.08.02-09.13.46:603][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.13.46:603][473]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.13.46:604][473]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.43.46
+[2022.08.02-09.13.46:604][473]LogWorld: Bringing up level for play took: 0.000508
+[2022.08.02-09.13.46:604][473]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2022.08.02-09.13.46:606][473]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.13.46:608][473]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.13.46:608][473]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.13.46:608][473]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.13.46:608][473]PIE: Server logged in
+[2022.08.02-09.13.46:609][473]PIE: Play in editor total start time 0.433 seconds.
+[2022.08.02-09.13.47:420][519]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.13.47:420][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.13.47:771][552]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.13.47:775][552]LogHMD: FSplash::DoShow
+[2022.08.02-09.13.47:775][552]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.13.47:775][552]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.13.47:775][552]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.13.47:775][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.13.47:836][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.13.47:840][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.08.02-09.13.47:845][552]LogAudio: Display: Audio Device (ID: 43) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.13.47:846][552]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.13.47:848][552]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.13.47:851][552]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.43.47
+[2022.08.02-09.13.47:851][552]LogWorld: Bringing up level for play took: 0.001910
+[2022.08.02-09.13.47:853][552]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.13.47:853][552]LogLoad: Took 0.078326 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.13.47:865][553]LogHMD: FSplash::DoHide
+[2022.08.02-09.13.55:525][246]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.13.55:536][246]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.13.55:569][246]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.13.55:569][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.13.55:579][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.13.55:586][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.13.55:632][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.13.55:633][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.13.55:639][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.08.02-09.13.55:785][247]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.08.02-09.13.58:263][478]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.13.58:270][478]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.14.06:630][405]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.14.06:637][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.14.06:698][405]LogPlayLevel: [PlayLevel] Compiling EnemyBlueprint before play...
+[2022.08.02-09.14.06:847][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2022.08.02-09.14.06:848][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2022.08.02-09.14.06:848][405]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.14.06:940][405]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.14.06:941][405]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:14:06 am)
+[2022.08.02-09.14.06:941][405]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.14.06:942][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000908s)
+[2022.08.02-09.14.06:943][405]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.14.06:943][405]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2022.08.02-09.14.06:943][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002132s)
+[2022.08.02-09.14.06:985][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.08.02-09.14.06:986][405]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.14.06:986][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.14.06:986][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.14.06:986][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.14.06:986][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.14.06:986][405]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.14.06:994][405]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.14.06:994][405]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.14.07:012][405]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.14.07:012][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.14.07:013][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.14.07:013][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.14.07:013][405]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.14.07:013][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.14.07:013][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.14.07:014][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.14.07:014][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.14.07:014][405]LogInit: FAudioDevice initialized.
+[2022.08.02-09.14.07:014][405]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainMenuLevel'.
+[2022.08.02-09.14.07:074][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.14.07:074][405]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.14.07:075][405]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.44.07
+[2022.08.02-09.14.07:075][405]LogWorld: Bringing up level for play took: 0.000387
+[2022.08.02-09.14.07:075][405]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2022.08.02-09.14.07:076][405]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.14.07:077][405]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.14.07:077][405]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.14.07:078][405]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.14.07:078][405]PIE: Server logged in
+[2022.08.02-09.14.07:079][405]PIE: Play in editor total start time 0.444 seconds.
+[2022.08.02-09.14.07:765][453]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.14.07:767][453]LogHMD: FSplash::DoShow
+[2022.08.02-09.14.07:767][453]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.14.07:767][453]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.14.07:767][453]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.14.07:767][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.14.07:837][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.14.07:841][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.08.02-09.14.07:846][453]LogAudio: Display: Audio Device (ID: 44) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.14.07:847][453]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.14.07:849][453]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.14.07:851][453]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.44.07
+[2022.08.02-09.14.07:851][453]LogWorld: Bringing up level for play took: 0.001719
+[2022.08.02-09.14.07:853][453]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.14.07:853][453]LogLoad: Took 0.086575 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.14.07:863][454]LogHMD: FSplash::DoHide
+[2022.08.02-09.14.43:222][968]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.14.43:231][968]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.14.43:259][968]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.14.43:260][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.14.43:268][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.14.43:276][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.14.43:318][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.14.43:320][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.14.43:329][968]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.08.02-09.14.43:363][969]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2022.08.02-09.14.55:198][  2]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.14.55:205][  2]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.02-09.14.55:211][  2]LogPlayLevel: [PlayLevel] Compiling TowerBlueprint before play...
+[2022.08.02-09.14.55:406][  2]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2022.08.02-09.14.55:406][  2]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2022.08.02-09.14.55:406][  2]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.14.55:502][  2]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.14.55:502][  2]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:14:55 am)
+[2022.08.02-09.14.55:502][  2]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.14.55:503][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000984s)
+[2022.08.02-09.14.55:504][  2]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.14.55:504][  2]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2022.08.02-09.14.55:504][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002031s)
+[2022.08.02-09.14.55:546][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.08.02-09.14.55:547][  2]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.14.55:547][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.14.55:547][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.14.55:548][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.14.55:548][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.14.55:548][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.14.55:548][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.14.55:556][  2]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.14.55:556][  2]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.14.55:574][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.14.55:576][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.14.55:576][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.14.55:576][  2]LogInit: FAudioDevice initialized.
+[2022.08.02-09.14.55:576][  2]LogAudio: Display: Audio Device (ID: 45) registered with world 'MainMenuLevel'.
+[2022.08.02-09.14.55:623][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.14.55:623][  2]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.14.55:624][  2]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.44.55
+[2022.08.02-09.14.55:624][  2]LogWorld: Bringing up level for play took: 0.000495
+[2022.08.02-09.14.55:624][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2022.08.02-09.14.55:626][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.14.55:627][  2]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.14.55:627][  2]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.14.55:627][  2]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.14.55:628][  2]PIE: Server logged in
+[2022.08.02-09.14.55:628][  2]PIE: Play in editor total start time 0.425 seconds.
+[2022.08.02-09.14.56:201][ 25]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.14.56:205][ 25]LogHMD: FSplash::DoShow
+[2022.08.02-09.14.56:205][ 25]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.14.56:205][ 25]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.14.56:205][ 25]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.14.56:205][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.14.56:280][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.14.56:285][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.08.02-09.14.56:290][ 25]LogAudio: Display: Audio Device (ID: 45) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.14.56:291][ 25]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.14.56:293][ 25]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.14.56:296][ 25]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.44.56
+[2022.08.02-09.14.56:296][ 25]LogWorld: Bringing up level for play took: 0.002106
+[2022.08.02-09.14.56:298][ 25]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.14.56:298][ 25]LogLoad: Took 0.093440 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.14.56:313][ 26]LogHMD: FSplash::DoHide
+[2022.08.02-09.15.09:539][140]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.15.09:550][140]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.15.09:551][140]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.15.09:551][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.09:560][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.15.09:567][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.09:608][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.15.09:609][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.15.09:616][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.08.02-09.15.09:659][141]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2022.08.02-09.15.10:619][232]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.15.10:624][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.15.10:624][232]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.15.10:719][232]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.15.10:719][232]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:15:10 am)
+[2022.08.02-09.15.10:719][232]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.15.10:720][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000942s)
+[2022.08.02-09.15.10:721][232]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.15.10:721][232]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2022.08.02-09.15.10:721][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002009s)
+[2022.08.02-09.15.10:762][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.08.02-09.15.10:763][232]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.15.10:763][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.15.10:763][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.15.10:763][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.15.10:763][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.15.10:764][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.15.10:764][232]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.15.10:772][232]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.15.10:772][232]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.15.10:790][232]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.15.10:791][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.15.10:791][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.15.10:791][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.15.10:791][232]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.15.10:791][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.15.10:791][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.15.10:792][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.15.10:792][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.15.10:792][232]LogInit: FAudioDevice initialized.
+[2022.08.02-09.15.10:792][232]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainMenuLevel'.
+[2022.08.02-09.15.10:839][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.15.10:839][232]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.15.10:840][232]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.45.10
+[2022.08.02-09.15.10:840][232]LogWorld: Bringing up level for play took: 0.000833
+[2022.08.02-09.15.10:840][232]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2022.08.02-09.15.10:842][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.15.10:843][232]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.15.10:843][232]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.15.10:843][232]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.15.10:849][232]PIE: Server logged in
+[2022.08.02-09.15.10:855][232]PIE: Play in editor total start time 0.232 seconds.
+[2022.08.02-09.15.11:502][274]LogScript: Warning: Accessed None trying to read property Held Tower
+	ControllerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel:PersistentLevel.ControllerBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/ControllerBlueprint.ControllerBlueprint_C:ExecuteUbergraph_ControllerBlueprint:01F9
+[2022.08.02-09.15.11:502][274]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Held Tower". Blueprint:  ControllerBlueprint Function:  Execute Ubergraph Controller Blueprint Graph:  EventGraph Node:  Branch
+[2022.08.02-09.15.11:874][306]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.15.11:875][306]LogHMD: FSplash::DoShow
+[2022.08.02-09.15.11:875][306]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.15.11:875][306]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.15.11:876][306]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.15.11:876][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.11:938][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.15.11:943][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.08.02-09.15.11:947][306]LogAudio: Display: Audio Device (ID: 46) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.15.11:948][306]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.15.11:950][306]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.15.11:953][306]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.45.11
+[2022.08.02-09.15.11:953][306]LogWorld: Bringing up level for play took: 0.001866
+[2022.08.02-09.15.11:955][306]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.15.11:955][306]LogLoad: Took 0.079589 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.15.11:968][307]LogHMD: FSplash::DoHide
+[2022.08.02-09.15.46:767][170]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.15.46:776][170]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.15.46:810][170]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.15.46:810][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.46:821][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.15.46:828][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.46:869][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.15.46:871][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.15.46:879][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.08.02-09.15.47:033][171]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2022.08.02-09.15.48:259][262]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.15.48:267][262]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.15.53:473][791]BlueprintLog: New page: Compile TowerBlueprint
+[2022.08.02-09.15.53:588][791]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.08.02-09.15.54:093][797]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/TowerBlueprint85BE36974E662C8B49F056B8712EBEE4.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Bailey/TowerBlueprint.uasset'
+[2022.08.02-09.15.54:113][797]AssetCheck: New page: Asset Save: TowerBlueprint
+[2022.08.02-09.15.54:113][797]LogContentValidation: Display: Validating Blueprint /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint
+[2022.08.02-09.15.54:965][879]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.02-09.15.54:972][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.02-09.15.54:972][879]LogHMD: Initializing OVRPlugin session
+[2022.08.02-09.15.55:066][879]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.08.02-09.15.55:066][879]PIE: New page: PIE session: MainMenuLevel (3 Aug 2022, 4:15:55 am)
+[2022.08.02-09.15.55:066][879]LogPlayLevel: Creating play world package: /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.15.55:067][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000945s)
+[2022.08.02-09.15.55:068][879]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.08.02-09.15.55:068][879]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2022.08.02-09.15.55:068][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GithubManagement/Bailey/MainMenuLevel.MainMenuLevel to /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002004s)
+[2022.08.02-09.15.55:115][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2022.08.02-09.15.55:115][879]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-09.15.55:115][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-09.15.55:115][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-09.15.55:116][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.02-09.15.55:116][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.02-09.15.55:116][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.02-09.15.55:116][879]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-09.15.55:125][879]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-09.15.55:125][879]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-09.15.55:143][879]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.02-09.15.55:143][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-09.15.55:144][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-09.15.55:144][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-09.15.55:144][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-09.15.55:144][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-09.15.55:144][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-09.15.55:145][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-09.15.55:146][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-09.15.55:146][879]LogInit: FAudioDevice initialized.
+[2022.08.02-09.15.55:146][879]LogAudio: Display: Audio Device (ID: 47) registered with world 'MainMenuLevel'.
+[2022.08.02-09.15.55:198][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-09.15.55:199][879]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.15.55:200][879]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.08.02-18.45.55
+[2022.08.02-09.15.55:200][879]LogWorld: Bringing up level for play took: 0.000502
+[2022.08.02-09.15.55:200][879]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2022.08.02-09.15.55:201][879]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.08.02-09.15.55:203][879]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.08.02-09.15.55:203][879]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.02-09.15.55:203][879]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.02-09.15.55:209][879]PIE: Server logged in
+[2022.08.02-09.15.55:217][879]PIE: Play in editor total start time 0.246 seconds.
+[2022.08.02-09.15.55:839][920]LogNet: Browse: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.15.55:839][920]LogHMD: FSplash::DoShow
+[2022.08.02-09.15.55:839][920]LogLoad: LoadMap: /Game/GithubManagement/Bailey/BaileyTestLevel
+[2022.08.02-09.15.55:839][920]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_MainMenuLevel
+[2022.08.02-09.15.55:839][920]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.15.55:840][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.15.55:879][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.15.55:882][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.08.02-09.15.55:887][920]LogAudio: Display: Audio Device (ID: 47) registered with world 'BaileyTestLevel'.
+[2022.08.02-09.15.55:888][920]LogAIModule: Creating AISystem for world BaileyTestLevel
+[2022.08.02-09.15.55:890][920]LogLoad: Game class is 'GameModeBlueprint_C'
+[2022.08.02-09.15.55:892][920]LogWorld: Bringing World /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel up for play (max tick rate 0) at 2022.08.02-18.45.55
+[2022.08.02-09.15.55:892][920]LogWorld: Bringing up level for play took: 0.001797
+[2022.08.02-09.15.55:895][920]LogHMD: FSplash::OnPostLoadMap Hide Auto Splash
+[2022.08.02-09.15.55:895][920]LogLoad: Took 0.055266 seconds to LoadMap(/Game/GithubManagement/Bailey/BaileyTestLevel)
+[2022.08.02-09.15.55:907][921]LogHMD: FSplash::DoHide
+[2022.08.02-09.16.31:178][691]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.31:178][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.31:205][693]LogScript: Warning: Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill
+	SplatBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.SplatBlueprint_C_0
+	Function /Game/GithubManagement/Bailey/SplatBlueprint.SplatBlueprint_C:ExecuteUbergraph_SplatBlueprint:006B
+[2022.08.02-09.16.31:205][693]PIE: Error: Blueprint Runtime Error: "Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill". Blueprint:  SplatBlueprint Function:  Execute Ubergraph Splat Blueprint Graph:  ForEachLoop Node:  Branch
+[2022.08.02-09.16.33:180][849]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.33:181][849]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.35:238][  2]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.35:238][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.37:244][164]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.37:244][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.37:290][168]LogScript: Warning: Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill
+	SplatBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.SplatBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/SplatBlueprint.SplatBlueprint_C:ExecuteUbergraph_SplatBlueprint:006B
+[2022.08.02-09.16.37:290][168]PIE: Error: Blueprint Runtime Error: "Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill". Blueprint:  SplatBlueprint Function:  Execute Ubergraph Splat Blueprint Graph:  ForEachLoop Node:  Branch
+[2022.08.02-09.16.39:255][329]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.39:255][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.41:254][493]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.41:255][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.43:261][657]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.43:261][657]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.45:264][815]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.45:264][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.45:313][819]LogScript: Warning: Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill
+	SplatBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.SplatBlueprint_C_7
+	Function /Game/GithubManagement/Bailey/SplatBlueprint.SplatBlueprint_C:ExecuteUbergraph_SplatBlueprint:006B
+[2022.08.02-09.16.45:314][819]PIE: Error: Blueprint Runtime Error: "Attempted to access WetCollision via property WetCollision, but WetCollision is pending kill". Blueprint:  SplatBlueprint Function:  Execute Ubergraph Splat Blueprint Graph:  ForEachLoop Node:  Branch
+[2022.08.02-09.16.47:266][977]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.47:266][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.49:274][142]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.49:274][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.51:276][304]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.51:276][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.52:296][386]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.52:296][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.52:505][402]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.52:505][402]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.52:715][418]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.52:715][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.52:920][434]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.52:920][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:130][451]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:130][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:281][463]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:281][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:341][467]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:341][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:542][483]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:542][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:750][500]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:750][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.53:963][517]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.53:963][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.54:171][534]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.54:171][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.54:383][551]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.54:383][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.54:593][568]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.54:593][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.54:802][585]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.54:802][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:011][602]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.55:011][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:218][619]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.55:218][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:290][625]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_3
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.55:291][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:510][632]LogScript: Warning: Accessed None trying to read property Looking At
+	TowerBlueprint_C /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel.BaileyTestLevel:PersistentLevel.TowerBlueprint_C_4
+	Function /Game/GithubManagement/Bailey/TowerBlueprint.TowerBlueprint_C:Set Rotation:003A
+[2022.08.02-09.16.55:510][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:711][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.55:920][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.56:121][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Looking At". Blueprint:  TowerBlueprint Function:  Set Rotation Graph:  Set Rotation Node:  SetWorldRotation
+[2022.08.02-09.16.56:298][698]LogSlate: Window 'GrimblySchmeggle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.02-09.16.56:309][698]LogWorld: BeginTearingDown for /Game/GithubManagement/Bailey/UEDPIE_0_BaileyTestLevel
+[2022.08.02-09.16.56:310][698]LogWorld: UWorld::CleanupWorld for BaileyTestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-09.16.56:310][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.16.56:320][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.02-09.16.56:328][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-09.16.56:371][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.02-09.16.56:372][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.16.56:373][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-09.16.56:382][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.08.02-09.16.56:541][699]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.08.02-09.16.59:210][901]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.16.59:217][901]LogSlate: Window 'Message Log' being destroyed
+[2022.08.02-09.17.30:477][802]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.08.02-09.17.30:495][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/MainMenuLevel_Auto4B2464B344286F93C891B01A3938865AE.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/MainMenuLevel_Auto4.umap'
+[2022.08.02-09.17.30:496][802]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GithubManagement/Bailey/MainMenuLevel' took 0.063
+[2022.08.02-09.17.30:496][802]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2022.08.02-09.17.30:497][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GithubManagement/Bailey/GameManagerBlueprint] ([2] browsable assets)...
+[2022.08.02-09.17.30:497][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Bailey/GameManagerBlueprint]
+[2022.08.02-09.17.30:552][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/GameManagerBlueprint_Auto424FBC7034EFF5CFC2CFA91B0DAD8B8B3.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/GameManagerBlueprint_Auto4.uasset'
+[2022.08.02-09.17.30:563][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GithubManagement/Bailey/EnemyBlueprint] ([2] browsable assets)...
+[2022.08.02-09.17.30:587][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GithubManagement/Bailey/EnemyBlueprint.EnemyBlueprint]
+[2022.08.02-09.17.30:588][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Bailey/EnemyBlueprint]
+[2022.08.02-09.17.30:660][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/EnemyBlueprint_Auto4387CDE68497B8542F5F52F87A5044065.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/EnemyBlueprint_Auto4.uasset'
+[2022.08.02-09.17.30:662][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GithubManagement/Casey/InGameWidget] ([2] browsable assets)...
+[2022.08.02-09.17.30:662][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Casey/InGameWidget]
+[2022.08.02-09.17.30:754][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/InGameWidget_Auto427B5A5EA41AB5CEF83CC5F89D44120C1.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Casey/InGameWidget_Auto4.uasset'
+[2022.08.02-09.17.30:775][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GithubManagement/Bailey/BulletBlueprint] ([2] browsable assets)...
+[2022.08.02-09.17.30:786][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GithubManagement/Bailey/BulletBlueprint.BulletBlueprint]
+[2022.08.02-09.17.30:786][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Bailey/BulletBlueprint]
+[2022.08.02-09.17.30:845][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/BulletBlueprint_Auto48D84695E419E66A2A806D9BF75C04F71.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/BulletBlueprint_Auto4.uasset'
+[2022.08.02-09.17.30:897][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GithubManagement/Bailey/SwipeBlueprint] ([2] browsable assets)...
+[2022.08.02-09.17.30:907][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GithubManagement/Bailey/SwipeBlueprint.SwipeBlueprint]
+[2022.08.02-09.17.30:907][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Bailey/SwipeBlueprint]
+[2022.08.02-09.17.30:936][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/SwipeBlueprint_Auto4447AC8294D7D9092B2A08DA9E0182A23.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/SwipeBlueprint_Auto4.uasset'
+[2022.08.02-09.17.30:936][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GithubManagement/Bailey/VineBlueprint] ([2] browsable assets)...
+[2022.08.02-09.17.30:947][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GithubManagement/Bailey/VineBlueprint.VineBlueprint]
+[2022.08.02-09.17.30:947][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/GithubManagement/Bailey/VineBlueprint]
+[2022.08.02-09.17.30:978][802]LogSavePackage: Moving '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/VineBlueprint_Auto4FA02073641528CC3D5FF9CA8E1F0EF03.tmp' to '../../../../../../../AIE VET Course 2021/GrimblySchmeggle/GrimblySchmeggle/GrimblySchmeggle/Saved/Autosaves/Game/GithubManagement/Bailey/VineBlueprint_Auto4.uasset'
+[2022.08.02-09.17.30:979][802]LogFileHelpers: Auto-saving content packages took 0.482
