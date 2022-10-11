@@ -1,0 +1,1030 @@
+﻿Log file open, 10/06/22 19:37:24
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GrimblySchmeggle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264759
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=koda_motor -epicuserid=46ed25c17a88437dbd9cca33ca6d3f51 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:112][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:144][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:144][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.06-08.37.25:144][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.06-08.37.25:144][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.06-08.37.25:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.06-08.37.25:146][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.06-08.37.25:146][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.06-08.37.25:146][  0]LogHAL: Display: Platform has ~ 16 GB [17111945216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.06-08.37.25:146][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.06-08.37.25:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Scalability.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Engine.ini]
+[2022.10.06-08.37.25:147][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Config/Windows/Editor.ini]
+[2022.10.06-08.37.25:147][  0]LogInit: Computer: DESKTOP-3EK53VD
+[2022.10.06-08.37.25:147][  0]LogInit: User: Lachlan
+[2022.10.06-08.37.25:147][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.06-08.37.25:147][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.06-08.37.25:147][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.06-08.37.25:148][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.06-08.37.25:148][  0]LogMemory: Process Physical Memory: 145.61 MB used, 145.87 MB peak
+[2022.10.06-08.37.25:148][  0]LogMemory: Process Virtual Memory: 126.88 MB used, 126.88 MB peak
+[2022.10.06-08.37.25:148][  0]LogMemory: Physical Memory: 9827.59 MB used,  6491.63 MB free, 16319.22 MB total
+[2022.10.06-08.37.25:148][  0]LogMemory: Virtual Memory: 134211136.00 MB used,  6593.77 MB free, 134217728.00 MB total
+[2022.10.06-08.37.25:151][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.06-08.37.25:191][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.06-08.37.25:192][  0]LogInit: Using OS detected language (en-US).
+[2022.10.06-08.37.25:192][  0]LogInit: Using OS detected locale (en-AU).
+[2022.10.06-08.37.25:208][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.10.06-08.37.25:412][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.06-08.37.25:425][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.06-08.37.25:425][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.06-08.37.25:539][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.06-08.37.30:901][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.10.06-08.37.30:901][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.06-08.37.30:901][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.06-08.37.30:901][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.06-08.37.31:005][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2022.10.06-08.37.31:005][  0]LogD3D11RHI:       8031/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     SubSysId    : 86fc1043
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     SharedSystemMemory : 8555972608 bytes
+[2022.10.06-08.37.31:008][  0]LogD3D11RHI:     AdapterLuid : 0 57814
+[2022.10.06-08.37.31:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.06-08.37.31:015][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.06-08.37.31:015][  0]LogWindows: EnumDisplayDevices:
+[2022.10.06-08.37.31:015][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2022.10.06-08.37.31:015][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:1)
+[2022.10.06-08.37.31:015][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.10.06-08.37.31:016][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2022.10.06-08.37.31:016][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.10.06-08.37.31:016][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060 SUPER
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     DeviceId    : 1f06
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     SubSysId    : 86fc1043
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     SharedSystemMemory : 8555972608 bytes
+[2022.10.06-08.37.31:016][  0]LogD3D11RHI:     AdapterLuid : 0 57814
+[2022.10.06-08.37.31:082][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.06-08.37.31:082][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.06-08.37.31:082][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.06-08.37.31:101][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.06-08.37.31:141][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.06-08.37.31:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.06-08.37.31:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.06-08.37.31:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.06-08.37.31:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.06-08.37.31:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.06-08.37.31:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.06-08.37.31:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.06-08.37.31:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.06-08.37.31:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.06-08.37.31:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.06-08.37.31:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.06-08.37.31:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.06-08.37.31:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.06-08.37.31:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.06-08.37.31:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.06-08.37.31:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.10.06-08.37.31:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.10.06-08.37.31:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.10.06-08.37.31:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.10.06-08.37.31:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.06-08.37.31:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.06-08.37.31:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.06-08.37.31:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.06-08.37.31:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.06-08.37.31:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.06-08.37.31:598][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.06-08.37.31:604][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.06-08.37.31:627][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.10.06-08.37.31:654][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.06-08.37.31:654][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Intermediate/Shaders/WorkingDirectory/26508/).
+[2022.10.06-08.37.31:654][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lachlan/AppData/Local/Temp/UnrealShaderWorkingDir/BDB62A344091171258C608BE50D7A519/'.
+[2022.10.06-08.37.31:654][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.06-08.37.31:654][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.06-08.37.31:655][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.06-08.37.32:394][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/Lachlan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lachlan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.06-08.37.32:453][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.06-08.37.32:469][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.06-08.37.32:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.06-08.37.32:469][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.06-08.37.32:477][  0]LogDerivedDataCache: Speed tests for C:/Users/Lachlan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.06-08.37.32:477][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lachlan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1414.19MBs, RandomWriteSpeed=142.00MBs. Assigned SpeedClass 'Local'
+[2022.10.06-08.37.32:482][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lachlan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.06-08.37.32:482][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.06-08.37.32:482][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.06-08.37.32:529][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.06-08.37.32:530][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.06-08.37.32:552][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.10.06-08.37.33:276][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.06-08.37.33:276][  0]LogInit: Active device profile: [0000023359FE2D00][000002335ACD0B00 49] Windows
+[2022.10.06-08.37.33:276][  0]LogInit: Profiles: [0000023359FE2D00][000002335ACD0B00 49] Windows, [0000023359ED1E00][000002335ACD4C40 49] WindowsNoEditor, [0000023359FE3A00][000002335ACD8D80 49] WindowsServer, [0000023359ED2B00][000002335ACE0F00 49] WindowsClient, [0000023359FE1700][000002335ACE5080 49] IOS, [0000023359ED3100][000002335ACE9200 49] iPadAir, [0000023359FE2800][000002335ACED380 49] iPadAir2, [0000023359E79300][000002335ACF5640 49] IPadPro, [0000023359E79400][000002335ACF1680 49] iPadAir3, [0000023359ED2100][000002335ACF9800 49] iPadAir4, [0000023359E7A100][000002335ACFD980 49] iPadMini2, [0000023359ED2C00][000002335AEA1B00 49] iPadMini3, [0000023359E7AC00][000002335AEA4100 49] iPadMini4, [0000023359ED3900][000002335AEA8280 49] iPadMini5, [0000023359E98D00][000002335AEB0540 49] iPhone6, [0000023359E98E00][000002335AEAC580 49] iPodTouch6, [0000023359FE1900][000002335AEB8840 49] iPhone7, [0000023359FE1B00][000002335AEB4880 49] iPodTouch7, [0000023359E78800][000002335AEBCA00 49] iPhone5S, [0000023359E7B300][000002335ACDCB40 49] iPhone6Plus, [0000023359E9BF00][000002335AEC0C80 49] iPhone6S, [0000023359E78E00][000002335AEC4DC0 49] iPhone6SPlus, [0000023359E9B800][000002335AEC8F00 49] iPhone7Plus, [0000023359E7AE00][000002335AED1080 49] iPhoneSE, [0000023359E98200][000002335AED5200 49] iPhone8, [0000023359E79A00][000002335AED9380 49] iPhone8Plus, [0000023359E9A200][000002335AEDD500 49] iPhoneX, [0000023359E79C00][000002335AEE1680 49] iPhoneXS, [0000023359E99200][000002335AEE5800 49] iPhoneXSMax, [0000023359FE0C00][000002335AEE9980 49] iPhoneXR, [0000023359E9AF00][000002335AEEDB00 49] iPhone11, [0000023359FE2400][000002335AEF0100 49] iPhone11Pro, [0000023359E9B500][000002335AEF4280 49] iPhone11ProMax, [0000023359FE3300][000002335AEF8400 49] iPhoneSE2, [0000023359E98C00][000002335AEFC580 49] iPhone12Mini, [0000023359FE2300][000002335AF00700 49] iPhone12, [0000023359E9B700][000002335AF04880 49] iPhone12Pro, [0000023359FE3200][000002335AF08A00 49] iPhone12ProMax, [0000023359E99600][000002335AF0CB80 49] iPadPro105, [0000023359FE1000][000002335AF10D00 49] iPadPro129, [0000023359E9B000][000002335AECCE40 49] iPadPro97, [0000023359FE0A00][000002335AF14F80 49] iPadPro2_129, [0000023359E98800][000002335AF190C0 49] iPad5, [0000023359FE2E00][000002335AF21240 49] iPad6, [0000023359E98900][000002335AF253C0 49] iPad7, [0000023359FE1F00][000002335AF29540 49] iPad8, [0000023359E98300][000002335AF2D6C0 49] iPadPro11, [0000023359FE1C00][000002335AF31840 49] iPadPro2_11, [0000023359E9AB00][000002335AF359C0 49] iPadPro3_129, [0000023359FE3800][000002335AF39B40 49] iPadPro4_129, [0000023359E9A100][000002335AF3C140 49] AppleTV, [0000023359FE3100][000002335AF402C0 49] AppleTV4K, [0000023359E9BE00][000002335AF44440 49] TVOS, [0000023359FE0B00][000002335AF485C0 49] Mac, [0000023359E9AC00][000002335AF4C740 49] MacClient, [0000023359FE1200][000002335AF508C0 49] MacNoEditor, [0000023359E99400][000002335AF54A40 49] MacServer, [0000023359FE3900][000002335AF58BC0 49] Linux, [0000023359E9B900][000002335AF5CD40 49] LinuxAArch64, [0000023359FE0900][000002335AF90EC0 49] LinuxNoEditor, [0000023359E9AD00][000002335AF1D000 49] LinuxAArch64NoEditor, [0000023359FE0300][000002335AF95140 49] LinuxClient, [0000023359E98A00][000002335AF99280 49] LinuxAArch64Client, [0000023359FE0D00][000002335AF9D3C0 49] LinuxServer, [0000023359E9B300][000002335AFA5540 49] LinuxAArch64Server, [0000023359FE1D00][000002335AFA96C0 49] Android, [0000023359E99D00][000002335AFAD840 49] Android_Low, [0000023359FE2100][000002335AFB19C0 49] Android_Mid, [0000023359E9B100][000002335AFB5B40 49] Android_High, [0000023359FE2C00][000002335AFB8140 49] Android_Default, [0000023359E98600][000002335AFBC2C0 49] Android_Adreno4xx, [0000023359FE2B00][000002335AFC0440 49] Android_Adreno5xx_Low, [0000023359E9BC00][000002335AFC45C0 49] Android_Adreno5xx, [0000023359FE3500][000002335AFC8740 49] Android_Adreno6xx, [0000023359E98B00][000002335AFCC8C0 49] Android_Adreno6xx_Vulkan, [0000023359E78F00][000002335AFD0A40 49] Android_Mali_T6xx, [0000023359ED2600][000002335AFD4BC0 49] Android_Mali_T7xx, [0000023359E79900][000002335AFD8D40 49] Android_Mali_T8xx, [0000023359ED3A00][000002335AFDCEC0 49] Android_Mali_G71, [0000023359E78700][000002335AFE1040 49] Android_Mali_G72, [0000023359ED1500][000002335AFA1180 49] Android_Mali_G72_Vulkan, [0000023359E7A300][000002335AFE52C0 49] Android_Mali_G76, [0000023359ED3B00][000002335AFE9400 49] Android_Mali_G76_Vulkan, [0000023359E79600][000002335AFED540 49] Android_Mali_G77, [0000023359ED2500][000002335AFF56C0 49] Android_Mali_G77_Vulkan, [0000023359E78D00][000002335AFF9840 49] Android_Mali_G78, [0000023359ED0100][000002334DE3B9C0 49] Android_Mali_G78_Vulkan, [0000023359E7A200][000002334DE3FB40 49] Android_Mali_G710, [0000023359ED1600][000002334DE42140 49] Android_Mali_G710_Vulkan, [0000023359E7B000][000002334DE462C0 49] Android_Vulkan_SM5, [0000023359ED2800][000002334DE4A440 49] Android_PowerVR_G6xxx, [0000023359E78900][000002334DE4E5C0 49] Android_PowerVR_GT7xxx, [0000023359ED2D00][000002334DE52740 49] Android_PowerVR_GE8xxx, [0000023359E78500][000002334DE568C0 49] Android_PowerVR_GM9xxx, [0000023359ED3400][000002334DE5AA40 49] Android_PowerVR_GM9xxx_Vulkan, [0000023359E7A800][000002334DE5EBC0 49] Android_TegraK1, [0000023359ED0200][000002334DE62D40 49] Android_Unknown_Vulkan, [0000023359E7B100][000002334DE66EC0 49] Lumin, [0000023359ED3E00][000002334DE6B040 49] Lumin_Desktop, [0000023359E7BD00][000002334DE6F1C0 49] HoloLens, 
+[2022.10.06-08.37.33:396][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.06-08.37.33:396][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.06-08.37.33:396][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.06-08.37.33:396][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.06-08.37.33:396][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.06-08.37.33:412][  0]LogNetVersion: GrimblySchmeggle 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1025192801)
+[2022.10.06-08.37.33:802][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.06-08.37.33:860][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.06-08.37.33:866][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.06-08.37.33:866][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.06-08.37.33:866][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.06-08.37.34:143][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 360929AE42406BDE0778EE90107EC3BB | Instance: E7293EBA4D76FF9CB17F34A250E836CB (DESKTOP-3EK53VD-26508).
+[2022.10.06-08.37.34:175][  0]LogPython: Using Python 3.7.7
+[2022.10.06-08.37.34:804][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.06-08.37.34:808][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.06-08.37.34:963][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.34:963][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.34:965][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.34:970][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.34:976][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.34:981][  0]LogUProjectInfo: Found projects:
+[2022.10.06-08.37.35:157][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.06-08.37.35:194][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.06-08.37.35:213][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.06-08.37.35:213][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.06-08.37.35:324][  0]LogCollectionManager: Loaded 0 collections in 0.000903 seconds
+[2022.10.06-08.37.35:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Collections/' took 0.00s
+[2022.10.06-08.37.35:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/Developers/Lachlan/Collections/' took 0.00s
+[2022.10.06-08.37.35:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/Collections/' took 0.00s
+[2022.10.06-08.37.35:349][  0]LogOcInput: OculusInput pre-init called
+[2022.10.06-08.37.35:581][  0]LogEngine: Initializing Engine...
+[2022.10.06-08.37.35:706][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.10.06-08.37.35:800][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.10.06-08.37.35:800][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.10.06-08.37.35:800][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.10.06-08.37.35:921][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.10.06-08.37.35:921][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.06-08.37.35:922][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.06-08.37.36:057][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.06-08.37.36:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.06-08.37.36:072][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.06-08.37.36:075][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.06-08.37.36:075][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.06-08.37.36:076][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.06-08.37.36:076][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.06-08.37.36:092][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.06-08.37.36:092][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.06-08.37.36:117][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.10.06-08.37.36:118][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.06-08.37.36:120][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.06-08.37.36:120][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.06-08.37.36:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.06-08.37.36:121][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.06-08.37.36:121][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.06-08.37.36:123][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.06-08.37.36:123][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.06-08.37.36:123][  0]LogInit: FAudioDevice initialized.
+[2022.10.06-08.37.36:123][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.06-08.37.36:123][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.06-08.37.36:294][  0]LogDerivedDataCache: Saved boot cache 0.17s 94MB C:/Users/Lachlan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.06-08.37.36:294][  0]LogInit: Texture streaming: Enabled
+[2022.10.06-08.37.36:305][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.06-08.37.36:308][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.06-08.37.36:308][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.06-08.37.36:310][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.06-08.37.36:457][  0]LogInit: Transaction tracking system initialized
+[2022.10.06-08.37.36:477][  0]BlueprintLog: New page: Editor Load
+[2022.10.06-08.37.36:530][  0]LocalizationService: Localization service is disabled
+[2022.10.06-08.37.36:550][  0]TimingProfiler: Initialize
+[2022.10.06-08.37.36:550][  0]TimingProfiler: OnSessionChanged
+[2022.10.06-08.37.36:550][  0]LoadingProfiler: Initialize
+[2022.10.06-08.37.36:550][  0]LoadingProfiler: OnSessionChanged
+[2022.10.06-08.37.36:550][  0]NetworkingProfiler: Initialize
+[2022.10.06-08.37.36:550][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.06-08.37.36:550][  0]MemoryProfiler: Initialize
+[2022.10.06-08.37.36:550][  0]MemoryProfiler: OnSessionChanged
+[2022.10.06-08.37.36:763][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.06-08.37.36:763][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.06-08.37.37:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/' took 0.01s
+[2022.10.06-08.37.38:183][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.06-08.37.38:187][  0]SourceControl: Source control is disabled
+[2022.10.06-08.37.38:187][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.301
+[2022.10.06-08.37.38:187][  0]Cmd: MAP LOAD FILE="C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/DefaultDoNotEdit/DefaultDoNotEditLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.06-08.37.38:187][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/DefaultDoNotEdit/DefaultDoNotEditLevel.umap'
+[2022.10.06-08.37.38:187][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.06-08.37.38:187][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2022.10.06-08.37.38:187][  0]LogFileHelpers: Loading map 'DefaultDoNotEditLevel' took 0.001
+[2022.10.06-08.37.38:189][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.303
+[2022.10.06-08.37.40:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-08.37.40:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-08.37.40:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-08.37.40:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.06-08.37.40:919][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3822 classes and 928 folders.
+[2022.10.06-08.37.41:251][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.06-08.37.41:534][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.06-08.37.41:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.41:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.06-08.37.41:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.41:561][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.10.06-08.37.41:561][  0]LogPakFile: OnPakFileMounted2Time == 0.026005
+[2022.10.06-08.37.41:826][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.06-08.37.41:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.41:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.06-08.37.41:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.41:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.10.06-08.37.41:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.10.06-08.37.42:589][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.10.06-08.37.42:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.10.06-08.37.42:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.10.06-08.37.42:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.10.06-08.37.42:600][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.06-08.37.42:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.06-08.37.42:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.10.06-08.37.42:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.10.06-08.37.42:693][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.06-08.37.42:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.06-08.37.42:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:693][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.10.06-08.37.42:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.10.06-08.37.42:729][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.06-08.37.42:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.06-08.37.42:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:729][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.10.06-08.37.42:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.10.06-08.37.42:857][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.06-08.37.42:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.06-08.37.42:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.10.06-08.37.42:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.10.06-08.37.42:887][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.06-08.37.42:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.06-08.37.42:887][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:887][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.10.06-08.37.42:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.10.06-08.37.42:922][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.06-08.37.42:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.42:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.06-08.37.42:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.42:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.10.06-08.37.42:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.10.06-08.37.43:007][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.06-08.37.43:007][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:007][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.06-08.37.43:007][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:007][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.10.06-08.37.43:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.10.06-08.37.43:042][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.06-08.37.43:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.06-08.37.43:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:042][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.10.06-08.37.43:042][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.10.06-08.37.43:047][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.06-08.37.43:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.06-08.37.43:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.10.06-08.37.43:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.10.06-08.37.43:048][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.06-08.37.43:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.06-08.37.43:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.10.06-08.37.43:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.10.06-08.37.43:101][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.06-08.37.43:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.06-08.37.43:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.10.06-08.37.43:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.10.06-08.37.43:103][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.06-08.37.43:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.06-08.37.43:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:103][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.10.06-08.37.43:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.10.06-08.37.43:173][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.06-08.37.43:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.06-08.37.43:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.10.06-08.37.43:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.10.06-08.37.43:180][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.06-08.37.43:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.06-08.37.43:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.06-08.37.43:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.10.06-08.37.43:262][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.06-08.37.43:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.06-08.37.43:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:263][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.10.06-08.37.43:263][  0]LogPakFile: OnPakFileMounted2Time == 0.001184
+[2022.10.06-08.37.43:285][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.06-08.37.43:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.06-08.37.43:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.10.06-08.37.43:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.10.06-08.37.43:338][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.06-08.37.43:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.06-08.37.43:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.10.06-08.37.43:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.10.06-08.37.43:365][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.06-08.37.43:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.06-08.37.43:365][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:365][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.10.06-08.37.43:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.10.06-08.37.43:464][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.06-08.37.43:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.06-08.37.43:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.10.06-08.37.43:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000124
+[2022.10.06-08.37.43:544][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.10.06-08.37.43:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.10.06-08.37.43:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.10.06-08.37.43:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.10.06-08.37.43:618][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.06-08.37.43:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.06-08.37.43:618][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.06-08.37.43:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.10.06-08.37.43:675][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.06-08.37.43:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.06-08.37.43:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:675][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.10.06-08.37.43:675][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.10.06-08.37.43:701][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.06-08.37.43:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.06-08.37.43:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.06-08.37.43:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.06-08.37.43:701][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.10.06-08.37.43:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.10.06-08.37.52:321][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.06-08.37.52:509][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.06-08.37.52:543][  0]LogSlate: Took 0.033430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.06-08.37.52:565][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.06-08.37.52:719][  0]LogRenderer: Reallocating scene render targets to support 1232x684 Format 10 NumSamples 1 (Frame:1).
+[2022.10.06-08.37.53:984][  0]LogSlate: Took 0.574622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.06-08.37.54:035][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.06-08.37.54:036][  0]LogLoad: (Engine Initialization) Total time: 31.15 seconds
+[2022.10.06-08.37.54:036][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.06-08.37.54:311][  0]LogAssetRegistry: Asset discovery search completed in 21.7601 seconds
+[2022.10.06-08.37.54:316][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.06-08.37.54:317][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.06-08.38.18:459][616]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.06-08.38.18:480][616]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.06-08.38.26:410][565]LogContentBrowser: Attempting asset rename: NewFolder -> Cactus
+[2022.10.06-08.38.26:410][565]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.06-08.38.49:608][425]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.06-08.38.49:620][425]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Lachlan\Downloads\uploads_files_2294381_Cactus.fbx)
+[2022.10.06-08.38.49:741][425]LogFbx: Loading FBX Scene from C:\Users\Lachlan\Downloads\uploads_files_2294381_Cactus.fbx
+[2022.10.06-08.38.49:753][425]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.06-08.38.51:882][425]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.06-08.38.51:950][425]LogMaterial: Display: Missing cached shadermap for Material_044 in PCD3D_SM5, Default, SM5 (DDC key hash: A3A19DDDB6530AF2A90897EDCFC963D4EFA40B98), compiling. 
+[2022.10.06-08.38.51:962][425]LogFbx: Display: Triangulating static mesh Cube.003
+[2022.10.06-08.38.51:988][425]LogStaticMesh: Building static mesh uploads_files_2294381_Cactus_Cube_003...
+[2022.10.06-08.38.52:004][425]LogStaticMesh: Built static mesh [0.02s] /Game/GithubManagement/Casey/Cactus/uploads_files_2294381_Cactus_Cube_003.uploads_files_2294381_Cactus_Cube_003
+[2022.10.06-08.38.52:013][425]LogStaticMesh: Warning: uploads_files_2294381_Cactus_Cube_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.06-08.38.52:013][425]LogStaticMesh: Warning: uploads_files_2294381_Cactus_Cube_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.06-08.38.52:018][425]LogMaterial: Display: Missing cached shadermap for Material_032 in PCD3D_SM5, Default, SM5 (DDC key hash: 916181B1AF95259EA908EB64F27359CAE021BDBE), compiling. 
+[2022.10.06-08.38.52:020][425]LogMaterial: Display: Missing cached shadermap for Material_031 in PCD3D_SM5, Default, SM5 (DDC key hash: 76D4FB531C8812228AD822E3AD817D52FAF07EDE), compiling. 
+[2022.10.06-08.38.52:022][425]LogMaterial: Display: Missing cached shadermap for Material_030 in PCD3D_SM5, Default, SM5 (DDC key hash: A5879DB2999FE92D0F50890D9E788A5316E49984), compiling. 
+[2022.10.06-08.38.52:023][425]LogFbx: Display: Triangulating static mesh Cube
+[2022.10.06-08.38.52:180][425]LogStaticMesh: Building static mesh uploads_files_2294381_Cactus_Cube...
+[2022.10.06-08.38.52:233][425]LogStaticMesh: Built static mesh [0.05s] /Game/GithubManagement/Casey/Cactus/uploads_files_2294381_Cactus_Cube.uploads_files_2294381_Cactus_Cube
+[2022.10.06-08.38.52:279][425]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.06-08.38.52:279][425]FBXImport: Warning: uploads_files_2294381_Cactus_Cube_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.10.06-08.38.52:279][425]FBXImport: Warning: uploads_files_2294381_Cactus_Cube_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.10.06-08.38.52:474][425]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.06-08.38.52:520][429]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.52:528][429]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.10.06-08.38.52:528][429]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.52:552][429]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.52:552][429]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2022.10.06-08.38.52:552][429]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.52:600][429]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.52:604][429]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.52:605][429]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.52:616][429]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.52:626][429]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.52:638][429]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.54:335][618]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2022.10.06-08.38.54:335][618]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.54:452][632]LogSlate: Window 'Message Log' being destroyed
+[2022.10.06-08.38.54:457][632]LogSlate: Window 'Message Log' being destroyed
+[2022.10.06-08.38.56:256][846]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2022.10.06-08.38.56:256][846]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.06-08.38.57:350][967]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2022.10.06-08.38.57:350][967]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.38.57:771][ 15]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2022.10.06-08.38.57:771][ 15]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.02:886][499]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2022.10.06-08.39.02:886][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.02:912][502]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2022.10.06-08.39.02:913][502]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.08:454][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2022.10.06-08.39.08:454][ 52]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.09:430][167]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2022.10.06-08.39.09:430][167]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.09:962][231]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.10.06-08.39.09:962][231]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.06-08.39.19:988][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.06-08.39.22:121][402]LogSlate: Window 'Save Content' being destroyed
+[2022.10.06-08.39.22:923][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.06-08.39.24:443][494]LogSlate: Window 'Save Content' being destroyed
+[2022.10.06-08.39.24:653][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Material_0305461481341BDACC11D913ABCBCBA5F83.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/Material_030.uasset'
+[2022.10.06-08.39.24:669][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Material_031D04852D74FEC7220475BDFB58CF321D7.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/Material_031.uasset'
+[2022.10.06-08.39.24:688][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Material_0329351625D48330DCC2D844DA9BA0F69DC.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/Material_032.uasset'
+[2022.10.06-08.39.24:703][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/Material_044C538396C4B9EE29DA6FFA48F1E337165.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/Material_044.uasset'
+[2022.10.06-08.39.24:751][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/uploads_files_2294381_Cactus_Cub4D201EC5473964273C47788801100EE4.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/uploads_files_2294381_Cactus_Cube.uasset'
+[2022.10.06-08.39.24:768][494]LogSavePackage: Moving 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Saved/uploads_files_2294381_Cactus_Cub36FBA70D490C9065407571B526894F0A.tmp' to 'C:/Users/Lachlan/Documents/zombie/Schemg TD/GrimblySchmeggle/GrimblySchmeggle/Content/GithubManagement/Casey/Cactus/uploads_files_2294381_Cactus_Cube_003.uasset'
+[2022.10.06-08.39.24:992][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M': Can't find file.
+[2022.10.06-08.39.24:993][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M': Can't find file.
+[2022.10.06-08.39.24:993][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M': Can't find file.
+[2022.10.06-08.39.24:994][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV': Can't find file.
+[2022.10.06-08.39.24:994][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV': Can't find file.
+[2022.10.06-08.39.24:994][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV': Can't find file.
+[2022.10.06-08.39.24:995][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV': Can't find file.
+[2022.10.06-08.39.24:997][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV': Can't find file.
+[2022.10.06-08.39.24:997][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D': Can't find file.
+[2022.10.06-08.39.24:998][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D': Can't find file.
+[2022.10.06-08.39.24:998][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV': Can't find file.
+[2022.10.06-08.39.24:998][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D': Can't find file.
+[2022.10.06-08.39.25:008][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M': Can't find file.
+[2022.10.06-08.39.25:008][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M': Can't find file.
+[2022.10.06-08.39.25:008][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:009][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:009][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M': Can't find file.
+[2022.10.06-08.39.25:010][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:809][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:809][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by M_Water_Lake
+[2022.10.06-08.39.25:809][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M': Can't find file.
+[2022.10.06-08.39.25:809][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by M_Water_Lake
+[2022.10.06-08.39.25:810][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:810][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_10
+[2022.10.06-08.39.25:810][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:810][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_13
+[2022.10.06-08.39.25:810][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:811][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_14
+[2022.10.06-08.39.25:811][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:811][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_15
+[2022.10.06-08.39.25:811][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:811][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_16
+[2022.10.06-08.39.25:811][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M': Can't find file.
+[2022.10.06-08.39.25:811][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_19
+[2022.10.06-08.39.25:812][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Water_N': Can't find file.
+[2022.10.06-08.39.25:812][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Water_N.T_Water_N Referenced by MaterialExpressionTextureSample_9
+[2022.10.06-08.39.25:812][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV': Can't find file.
+[2022.10.06-08.39.25:812][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV.T_Smoke_SubUV Referenced by M_smoke_subUV
+[2022.10.06-08.39.25:812][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D': Can't find file.
+[2022.10.06-08.39.25:812][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D Referenced by M_smoke_subUV
+[2022.10.06-08.39.25:813][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV': Can't find file.
+[2022.10.06-08.39.25:813][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_SubUV.T_Smoke_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2022.10.06-08.39.25:813][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D': Can't find file.
+[2022.10.06-08.39.25:813][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D Referenced by MaterialExpressionTextureSample_0
+[2022.10.06-08.39.25:814][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV': Can't find file.
+[2022.10.06-08.39.25:814][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV.T_Explosion_SubUV Referenced by M_explosion_subUV
+[2022.10.06-08.39.25:815][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV': Can't find file.
+[2022.10.06-08.39.25:815][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Explosion_SubUV.T_Explosion_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2022.10.06-08.39.25:815][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M': Can't find file.
+[2022.10.06-08.39.25:815][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M.T_Burst_M Referenced by M_Burst
+[2022.10.06-08.39.25:815][494]LogLinker: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to load '/Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M': Can't find file.
+[2022.10.06-08.39.25:815][494]LoadErrors: Failed to load /Game/ExampleContent/StarterContentAssets/Textures/T_Burst_M.T_Burst_M Referenced by MaterialExpressionTextureSample_0
+[2022.10.06-08.39.29:072][494]LogMaterial: Display: Missing cached shadermap for grassy_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2A175BAEE8073B02D7CC01FF40EC0ED84E4CC029), compiling. 
+[2022.10.06-08.39.29:091][494]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.10.06-08.39.29:595][494]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2022.10.06-08.39.29:595][494]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2022.10.06-08.39.29:595][494]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.10.06-08.39.37:575][494]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: 0CFD83EB9D63ABA144780AAA7CBEDC26F592A539), compiling. 
+[2022.10.06-08.39.37:898][494]LogMaterial: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Materials\M_Water_Lake.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.06-08.39.37:898][494]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.10.06-08.39.38:042][494]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.10.06-08.39.38:042][494]LogMaterial: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.06-08.39.38:042][494]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.10.06-08.39.38:042][494]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.10.06-08.39.38:308][494]LogMaterial: Display: Missing cached shadermap for M_explosion_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: C0B92B488B9B49C99FF4D7419B0B47DE2BFF8ADD), compiling. 
+[2022.10.06-08.39.38:308][494]LogMaterial: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_explosion_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.06-08.39.38:308][494]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.10.06-08.39.38:312][494]LogMaterial: Display: Missing cached shadermap for M_Burst in PCD3D_SM5, Default, SM5 (DDC key hash: B75E18FB2E8ED1DD31F404696ABA913BAA0CF6F1), compiling. 
+[2022.10.06-08.39.39:863][494]LogMaterial: Warning: [AssetLog] C:\Users\Lachlan\Documents\zombie\Schemg TD\GrimblySchmeggle\GrimblySchmeggle\Content\ExampleContent\Particles\Materials\M_Burst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.06-08.39.39:863][494]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.10.06-08.39.52:932][494]LogMemory: Warning: Freeing 33554432 bytes from backup pool to handle out of memory.
+[2022.10.06-08.39.53:607][494]LogMemory: Warning: MemoryStats:
+	AvailablePhysical 952381440
+	 AvailableVirtual 67137536
+	     UsedPhysical 6595862528
+	 PeakUsedPhysical 7797817344
+	      UsedVirtual 14689857536
+	  PeakUsedVirtual 14739947520
+[2022.10.06-08.39.53:607][494]Allocator Stats for TBB: (not implemented)
+[2022.10.06-08.39.53:655][494]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.06-08.39.53:825][494]LogWindows: Windows GetLastError: The operation completed successfully. (0)
